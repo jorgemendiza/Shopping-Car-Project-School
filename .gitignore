@@ -4,3 +4,5 @@
 *.jar
 *.war
 *.ear
+/Shopping Car Escom/nbproject/private/
+/Shopping Car Escom/build/
